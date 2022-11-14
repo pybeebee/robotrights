@@ -6,4 +6,8 @@ With the rise of social robotics and assistive AI, the debate over robot rights 
 
 We present a robot rights curriculum in which we construct and work through a foundational framework to engage in critical thinking, understanding, and discussion of decisions regarding robot rights. We cultivate an understanding of the robot rights debate informed by Western and Eastern principles as a step toward uniting our global community. Through the study of robot rights motivated by both Western and Eastern principles, we take an important first step toward addressing existing gaps in knowledge and discourse on robot rights.
 
-## [Website](https://robotrights.webflow.io)
+### Go to [website](https://robotrights.webflow.io). 
+
+This project was generously funded by the Peter J. Eloranta Summer Undergraduate Research Fellowship award and the Undergraduate Research Opportunities Program at MIT.  
+
+If you want to stay up-to-date on robot rights, please sign up for my [substack newsletter](https://weai.substack.com). Thank you!
