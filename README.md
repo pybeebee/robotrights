@@ -1,5 +1,5 @@
-# robotrights
-## A curriculum on robot rights
+# Robot Rights
+## A Curriculum Informed by Western and Eastern Principles
 
 With the rise of social robotics and assistive AI, the debate over robot rights is becoming increasingly important. What are robot rights? How should we navigate the complex landscape of human and robot rights from moral, legal, and social perspectives? As AI competition increases between East and West, can we bridge the growing divide by achieving a shared framework of robot rights applicable in cross-cultural settings?   
 
