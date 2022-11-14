@@ -6,4 +6,4 @@ With the rise of social robotics and assistive AI, the debate over robot rights 
 
 We present a robot rights curriculum in which we construct and work through a foundational framework to engage in critical thinking, understanding, and discussion of decisions regarding robot rights. We cultivate an understanding of the robot rights debate informed by Western and Eastern principles as a step toward uniting our global community. Through the study of robot rights motivated by both Western and Eastern principles, we take an important first step toward addressing existing gaps in knowledge and discourse on robot rights.
 
-# [Website](robotrights.webflow.io)
+## [Website](https://robotrights.webflow.io)
